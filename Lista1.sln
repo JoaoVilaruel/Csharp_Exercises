@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atv6a", "atv6a\atv6a.csproj", "{F8276CA9-8662-434A-A350-73223E3DC116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "atv6b", "atv6b\atv6b.csproj", "{26EC889D-00BF-4312-8621-CBE9EF0178CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8276CA9-8662-434A-A350-73223E3DC116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8276CA9-8662-434A-A350-73223E3DC116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8276CA9-8662-434A-A350-73223E3DC116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8276CA9-8662-434A-A350-73223E3DC116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26EC889D-00BF-4312-8621-CBE9EF0178CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26EC889D-00BF-4312-8621-CBE9EF0178CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26EC889D-00BF-4312-8621-CBE9EF0178CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26EC889D-00BF-4312-8621-CBE9EF0178CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
